@@ -1,0 +1,19 @@
+1.break out of the loop
+2.continue goes to next iteration
+3.max
+  count
+  sum
+  average
+  filtering
+  search
+  smallest
+4.none---flag value---max/smallest
+  int
+  float
+  boolean
+5.is match type and value
+  >>> 1.0 == 1
+  True
+  >>> 1.0 is 1
+  False
+6.不支持跨类型比较
