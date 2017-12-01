@@ -1,3 +1,3 @@
 1.intention error:no tab.should be four spaces.
 2.Don't blow up.Don't get a traceback.
-3.try:except can solve traceback.
+3.try:except: can solve traceback.
