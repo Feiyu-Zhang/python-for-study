@@ -1,7 +1,16 @@
 1.looping through strings
-  for can take the position of iteration variables
+  _for_ can take the position of iteration variables
   looping and count
-  slicing strings
+  slicing strings  [2:4]
   logical(in)
-  concatenate
+  concatenate      +
   comparison(Z<a)
+  upper
+  search and replac e
+  stripping whitespace(lstrip,rstrip,strip)
+  prefixes(startwith)
+  parsing and extracting     *up to,but not including
+  
+2.python2 & python3
+  python2:regular strings and unicode strings(need convert)
+  python3:strings
