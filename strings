@@ -1,12 +1,13 @@
 1.looping through strings
   _for_ can take the position of iteration variables
   looping and count
+  find(sub[,start[,end]])
   slicing strings  [2:4]
   logical(in)
   concatenate      +
   comparison(Z<a)
   upper
-  search and replac e
+  search and replace
   stripping whitespace(lstrip,rstrip,strip)
   prefixes(startwith)
   parsing and extracting     *up to,but not including
