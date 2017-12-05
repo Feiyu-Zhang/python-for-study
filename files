@@ -1,0 +1,8 @@
+1.newline is one character.
+
+2.opening a file -file handle
+  file structure - newline character
+  reading a file line by line with a for loop
+  searching for lines
+  reading file names
+  deal with bad files(try..except..)
