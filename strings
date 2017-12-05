@@ -15,3 +15,8 @@
 2.python2 & python3
   python2:regular strings and unicode strings(need convert)
   python3:strings
+  
+3.str.split(str='',num=string.count(str))    返回字符串列表
+  str--分隔符（空格，\n，\t）
+  num--分割次数
+  搜索str在string出现的次数
