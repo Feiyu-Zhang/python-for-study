@@ -2,3 +2,4 @@ lst = lst.sort()           /lst.sort()
 print(lst.sort())          /lst.sort()
 line.split()*not useful    /line=line.split()
 line[i] is not in lst      /line[i] not in lst
+if or 注意先后顺序
