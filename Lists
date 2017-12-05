@@ -1,0 +1,11 @@
+1.strings are immutable
+  lists are mutable
+2.range()--loop
+  concatenating lists +
+  sliced
+  append(end) do not x = x.append  
+  is sth in the list
+  sort()
+3.append&extend
+  append([4,5])->[1,2,3[,4,5]]
+  extend([4,5])->[1,2,3,4,5]
