@@ -9,3 +9,8 @@
 3.append&extend
   append([4,5])->[1,2,3[,4,5]]
   extend([4,5])->[1,2,3,4,5]
+4.删除list中重复元素
+   -比较相邻元素
+   -临时列表
+   -set,然后sorted
+ 5.startswith和list[0]
