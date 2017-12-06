@@ -1,1 +1,9 @@
 1.like lists but not immutable
+2.圆括号
+3.DoNot sort，append，reverse
+  Do count,index
+4.assignment
+5.item return a list of tuples
+6.are comparable
+7.sorted by key
+  sorted by value(temporary list)
