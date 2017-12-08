@@ -1,6 +1,13 @@
 1.建立socket对象，AF_Int,strem，建立连接
 2.strings in python is Unicode
-  send on network is UTF-8
+  send on network is UTF-8(world recommend)
 3.open a socket---send a command---retrieve the data
 4.Content-Encoding & Transfer-Encoding       /https://imququ.com/post/transfer-encoding-header-in-http.html
   browser 采用gzip编码使content-length缩小
+5.import urllib.request,urllib.parse,urllib.error
+  from urllib.request import Request,urlopen
+
+  req = Request('http://data.pr4e.org/romeo.txt', headers={'User-Agent': 'Mozilla/5.0'})
+  webpage = urlopen(req).read()  
+6.TreeBuilderForHtml5lib 'module' object has no attribute '_base' 
+  solution： pip install --upgrade html5lib==1.0b8  
