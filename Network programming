@@ -1,0 +1,6 @@
+1.建立socket对象，AF_Int,strem，建立连接
+2.strings in python is Unicode
+  send on network is UTF-8
+3.open a socket---send a command---retrieve the data
+4.Content-Encoding & Transfer-Encoding       /https://imququ.com/post/transfer-encoding-header-in-http.html
+  browser 采用gzip编码使content-length缩小
