@@ -4,3 +4,4 @@ line.split()*not useful    /line=line.split()
 line[i] is not in lst      /line[i] not in lst
 if or 注意先后顺序
 data[2]                    /tuples
+InterfaceError: Error binding parameter 0 - probably unsupported type.    /re.findall is a list,not str.
